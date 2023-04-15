@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as a Staff Platform Engineer [@asappinc](https://github.com/asappinc).
+- 🔭 I’m currently working as a Principle Platform Engineer [@asappinc](https://github.com/asappinc).
 - 😄 Pronouns: he/him
 
 <details>
